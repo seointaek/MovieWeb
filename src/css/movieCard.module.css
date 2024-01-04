@@ -1,0 +1,8 @@
+.movieCard > figcaption{
+    padding-top: 5px;
+    font-size: 2em;
+}
+
+.movieCard img {
+    cursor: pointer;
+}

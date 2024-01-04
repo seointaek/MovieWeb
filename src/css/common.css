@@ -1,0 +1,26 @@
+@charset 'utf-8';
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;800&display=swap');
+:root {
+  font-family: 'Poppins', sans-serif;
+  font-size: 10px;
+  --gap-big:50px;
+  --gap-smail:32px;
+  --gap-ss:10px;
+}
+body{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+.hd{
+  background-color: white;
+  color: black;
+  text-align: center;
+  font-size: 4rem;
+  padding:40px 0;
+  font-weight: bold;
+}
+
+
+
+
